@@ -18,16 +18,18 @@ There is no centralized system to:
 ## 🤝 Team Collaboration Guide (imp)
 
 ### First Time Setup
-git clone https://github.com/<your-username>/smart-service.git
-cd smart-service
+git clone https://github.com/Arunkasarla/Minor-Project1.git
+cd Minor-project1
+
 
 ---
 
-### Create Your Own Branch (MANDATORY)
+### Create Your Own Branch (MANDATORY) 
 git checkout -b your-name-feature
 
 Example:
 git checkout -b ramani-navbar-update
+git checkout -b poojnavi-landingpage-update
 
 ---
 ### Daily Workflow
@@ -57,8 +59,8 @@ git push origin your-name-feature
 
 ## ⚙️ How to Run the Project (Frontend)
 
-git clone https://github.com/<your-username>/smart-service.git
-cd smart-service
+git clone https://github.com/<your-username>/Minor-Project1
+cd Minor-project1
 cd frontend
 npm install
 npm run dev
@@ -68,7 +70,6 @@ npm run dev
 #backend
 cd backend 
 python app.py
-
 
 ## ✅ Proposed System
 Smart Service provides:
