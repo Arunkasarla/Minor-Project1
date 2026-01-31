@@ -28,16 +28,16 @@ cd Minor-project1
 git checkout -b your-name-feature
 
 Example:
-git checkout -b ramani-navbar-update
-git checkout -b poojnavi-landingpage-update
+-git checkout -b ramani-navbar-update
+-git checkout -b poojnavi-landingpage-update
 
 ---
 ### Daily Workflow
-git pull origin main
-git status
-git add .
-git commit -m "Added feature or fixed bug"
-git push origin your-name-feature
+-git pull origin main
+-git status
+-git add .
+-git commit -m "Added feature or fixed bug"
+-git push origin your-name-feature
 
 ---
 
@@ -59,17 +59,17 @@ git push origin your-name-feature
 
 ## ⚙️ How to Run the Project (Frontend)
 
-git clone https://github.com/<your-username>/Minor-Project1
-cd Minor-project1
-cd frontend
-npm install
-npm run dev
+-git clone https://github.com/<your-username>/Minor-Project1
+-cd Minor-project1
+-cd frontend
+-npm install
+-npm run dev
 
 ---
 
 #backend
-cd backend 
-python app.py
+-cd backend 
+-python app.py
 
 ## ✅ Proposed System
 Smart Service provides:
