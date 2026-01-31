@@ -34,11 +34,11 @@ Example:
 
 ---
 ### Daily Workflow
--git pull origin main
--git status
--git add .
--git commit -m "Added feature or fixed bug"
--git push origin your-name-feature
+1.git pull origin main
+2.git status
+3.git add .
+4.git commit -m "Added feature or fixed bug"
+5.git push origin your-name-feature
 
 ---
 
@@ -60,17 +60,17 @@ Example:
 
 ## ⚙️ How to Run the Project (Frontend)
 
--git clone https://github.com/<your-username>/Minor-Project1
--cd Minor-project1
--cd frontend
--npm install
--npm run dev
+1.git clone https://github.com/<your-username>/Minor-Project1
+2cd Minor-project1
+3.cd frontend
+4.npm install
+5.npm run dev
 
 ---
 
 #backend
--cd backend 
--python app.py
+1.cd backend 
+2.python app.py
 
 ## ✅ Proposed System
 Smart Service provides:
