@@ -28,8 +28,9 @@ cd Minor-project1
 git checkout -b your-name-feature
 
 Example:
--git checkout -b ramani-navbar-update
--git checkout -b poojnavi-landingpage-update
+1.git checkout -b ramani-navbar-update
+
+2.git checkout -b poojnavi-landingpage-update
 
 ---
 ### Daily Workflow
